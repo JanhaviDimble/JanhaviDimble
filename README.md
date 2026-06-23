@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavidimble/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanhaviDimble)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://janhavidimble.netlify.app/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavidimble@gmail.com)
 
@@ -14,11 +14,10 @@
 
 Building scalable, production-ready applications with a passion for clean code and innovative solutions
 
-- 🎓 MCA from Sarhad College, Pune — SGPA: 9.10 | BSc CS SGPA: 9.27
+- 🎓 M.SC.(Computer Application) with 9.10 SGPA
 - 💻 Building full-stack apps with Java + React
-- 🌱 Currently working on QuickBite, ResumeIQ & LifeLink
 - 🎯 Actively seeking Java Full Stack Developer roles
-
+  
 ---
 
 ## 💻 Tech Stack
@@ -28,6 +27,8 @@ Building scalable, production-ready applications with a passion for clean code a
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 **Frontend**
 
