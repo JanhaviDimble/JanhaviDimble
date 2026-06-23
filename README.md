@@ -2,13 +2,17 @@
 
 ### Java Full Stack Developer | MCA Graduate | Pune, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janhavi-dimble)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavidimble/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanhaviDimble)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavidimble@gmail.com)
 
 ---
 
 ## 🚀 About Me
+
+Building scalable, production-ready applications with a passion for clean code and innovative solutions
 
 - 🎓 MCA from Sarhad College, Pune — SGPA: 9.10 | BSc CS SGPA: 9.27
 - 💻 Building full-stack apps with Java + React
@@ -20,6 +24,7 @@
 ## 💻 Tech Stack
 
 **Languages**
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,10 +51,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+---
 
 ## 🏆 Featured Projects
 
-### 🍔 QuickBite - Food Ordering App
+### [🍔 QuickBite - Food Ordering App](#)
 > Swiggy/Zomato-inspired full-stack food ordering platform
 > **Stack:** Spring Boot | React.js | MySQL | JWT | Redux Toolkit
 
@@ -57,24 +63,17 @@
 🔹 Implemented JWT-based authentication and role-based access  
 🔹 Designed responsive React frontend with real-time cart updates  
 
-### 📄 ResumeIQ - AI Resume Analyzer
+### [📄 ResumeIQ - AI Resume Analyzer](https://github.com/JanhaviDimble/ResumeIQ-AI-Resume-Analyzer)
 > AI-powered resume analysis and scoring tool using Claude AI
 > **Stack:** Spring Boot | React.js | PostgreSQL | Claude AI API
 
 🔹 Integrated Claude AI API for intelligent resume feedback  
 🔹 Built PDF parsing service for resume text extraction  
-🔹 Secure user authentication with JWT and Spring Security  
+🔹 Secure user authentication with JWT and Spring Security
 
-### 🏥 LifeLink - Healthcare Platform
-> Healthcare management system connecting patients and providers
-> **Stack:** Spring Boot | React.js | MySQL | JWT
 
-🔹 Role-based dashboards for patients and doctors  
-🔹 Appointment booking and management system  
-🔹 Secure REST APIs with Spring Security  
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Janhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanhaviDimble&show_icons=true&theme=radical)
@@ -83,9 +82,7 @@
 
 ## 🎓 Certifications
 
-✅ Java Full Stack - Kiran Academy  
-✅ Core Java - Coursera  
-
+✅ Java Full Stack - Kiran Academy (Apr 2026) 
 ---
 
 💭 *"Code is like humor. When you have to explain it, it's bad."*  
