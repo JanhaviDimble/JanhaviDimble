@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Janhavi Dimble
-
-### Java Full Stack Developer | MCA Graduate | Pune, India
+<h1 align="center">👋 Hi, I'm Janhavi Dimble</h1>
+<h3 align="center">Java Full Stack Developer | MCA Graduate | Pune, India</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavidimble/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://janhavidimble.netlify.app/)
@@ -66,7 +65,6 @@ Building scalable, production-ready applications with a passion for clean code a
 🔹 Designed responsive React frontend with real-time cart updates  
 
 ### [📄 ResumeIQ - AI Resume Analyzer](https://github.com/JanhaviDimble/ResumeIQ-AI-Resume-Analyzer)
-> AI-powered resume analysis and scoring tool using Claude AI
 > **Stack:** Spring Boot | React.js | PostgreSQL | Claude AI API
 
 🔹 Integrated Claude AI API for intelligent resume feedback  
@@ -75,16 +73,6 @@ Building scalable, production-ready applications with a passion for clean code a
 
 
 
----
-## 📊 GitHub Stats
-
-![Janhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanhaviDimble&show_icons=true&theme=radical)
-
----
-
-## 🎓 Certifications
-
-✅ Java Full Stack - Kiran Academy (Apr 2026) 
 ---
 
 💭 *"Code is like humor. When you have to explain it, it's bad."*  
