@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavidimble/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://janhavidimble.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavidimble@gmail.com)
-
 </div>
 
 ---
@@ -79,33 +78,19 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![ResumeIQ](https://github-readme-stats.vercel.app/api/pin/?username=JanhaviDimble&repo=ResumeIQ-AI-Resume-Analyzer&theme=tokyonight&hide_border=true)](https://github.com/JanhaviDimble/ResumeIQ-AI-Resume-Analyzer)
-
-</div>
-
-### [📄 ResumeIQ — AI Resume Analyzer](https://github.com/JanhaviDimble/ResumeIQ-AI-Resume-Analyzer)
-> **Stack:** Spring Boot | React.js | MySQL | Claude AI API | JWT | Docker
-
-🔹 Integrated **Claude AI API** for intelligent resume feedback
-🔹 Built **PDF parsing** service using Apache PDFBox
-🔹 Instant **match score (0-100%)** against any job description
-🔹 Secure authentication with **JWT + Spring Security**
-🔹 🌐 **Live:** 
-[resumeiq-ai-resume-analyzer.netlify.app](https://resumeiq-ai-resume-analyzer.netlify.app)
-
----
-
-### [🍔 QuickBite — Food Ordering App](#)
+## 🏆 Featured Projects
+### [🍔 QuickBite - Food Ordering App](#)
 > **Stack:** Spring Boot | React.js | MySQL | JWT | Redux Toolkit
+🔹 Built REST APIs for menu, cart, and order management  
+🔹 Implemented JWT-based authentication and role-based access  
+🔹 Designed responsive React frontend with real-time cart updates
 
-🔹 Built **REST APIs** for menu, cart, and order management
-🔹 Implemented **JWT-based authentication** and role-based access
-🔹 Designed responsive React frontend with **real-time cart updates**
-
+ ### [📄 ResumeIQ - AI Resume ](#)
+### [GitHub](https://github.com/JanhaviDimble/ResumeIQ-AI-Resume-Analyzer)
+> **Stack:** Spring Boot | React.js | PostgreSQL | Claude AI API
+🔹 Integrated Claude AI API for intelligent resume feedback  
+🔹 Built PDF parsing service for resume text extraction  
+🔹 Secure user authentication with JWT and Spring Security
 ---
 
 ## 🐍 Contribution Graph
