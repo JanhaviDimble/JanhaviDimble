@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **M.SC.(Computer Application)** with **9.10 SGPA**
+- 🎓 **M.SC.(Computer Application)** with **8.90 SGPA**
 - 💻 Building full-stack apps with **Java + React**
 - 🤖 Love integrating **AI APIs** into real-world projects
 - 🎯 Actively seeking **Java Full Stack Developer** roles
